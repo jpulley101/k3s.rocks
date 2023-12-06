@@ -1,5 +1,13 @@
-FROM python:3.10
-WORKDIR /src
-COPY . .
-RUN pip install -r requirements.txt
-CMD mkdocs serve -a 0.0.0.0:8000
+FROM node:latest as builder
+
+WORKDIR /
+COPY . /
+#RUN apk add autoconf libtool automake
+#RUN apk add libtool
+#RUN apk add automake
+#RUN apk --update add gcc make g++ zlib-dev
+#RUN npm install
+RUN yarn
+EXPOSE 3000
+RUN yarn build
+CMD ["yarn", "start"]

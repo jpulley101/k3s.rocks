@@ -1,5 +1,10 @@
-# Metrics
-![Grafana](./img/grafana-traefik.webp)
+---
+sidebar_position: 11
+sidebar_label: Metrics
+---
+
+## Metrics
+![Grafana](/img/grafana-traefik.webp)
 
 ## Install helm chart
 For settings see:

@@ -1,4 +1,9 @@
-# Install and set up
+---
+sidebar_position: 2
+sidebar_label: Install Setup
+---
+
+## Install and set up
 
 ## Install a new Linux server with Docker
 

@@ -1,5 +1,10 @@
+---
+sidebar_position: 13
+sidebar_label: ArgoCD
+---
+
 ## Install ArgoCD
-![argocd ui](/img/argo)
+![argocd ui](/img/argoCD.svg)
 [docs](https://argoproj.github.io/argo-cd/getting_started/)  
 
 

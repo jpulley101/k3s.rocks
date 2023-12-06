@@ -1,4 +1,9 @@
-# Technitium dns-server
+---
+sidebar_position: 17
+sidebar_label: Technitium dns-server
+---
+
+## Technitium dns-server
 
 [Technitium dns-server](https://technitium.com/dns/) is a self hostable open source dns server.
 

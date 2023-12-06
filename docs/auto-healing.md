@@ -1,4 +1,9 @@
-# Auto healing demo
+---
+sidebar_position: 8
+sidebar_label: Auto Healing
+---
+
+## Auto healing demo
 Lets see some reasons why we are using kubernetes in the first place. We will use the blogging platform ghost because it is fast an easy to deploy and work with.
 
 #### Deploy ghost
@@ -7,7 +12,7 @@ cat ghost-ephemeral.yaml | envsubst | kubectl apply -f -
 ```
 
 #### Make edits
-If you now go to <a href="https://ghost.yourdomain.com" target=_blank>https://ghost.yourdomain.com</a> (wait a few seconds for the certificate to be claimed), you should see ghost startpage. Go to <a href="https://ghost.yourdomain.com/ghost" target=_blank>https://ghost.yourdomain.com/ghost</a> and create an account. Make some changes. Go back to the site and see the changes. 
+If you now go to <a href="https://ghost.yourdomain.com" target="blank">https://ghost.yourdomain.com</a> (wait a few seconds for the certificate to be claimed), you should see ghost startpage. Go to <a href="https://ghost.yourdomain.com/ghost" target="blank">https://ghost.yourdomain.com/ghost</a> and create an account. Make some changes. Go back to the site and see the changes. 
 
 #### Delete the pod
 ```bash

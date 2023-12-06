@@ -1,4 +1,9 @@
-# Keel
+---
+sidebar_position: 14
+sidebar_label: Keel
+---
+
+## Keel
 
 [Keel.sh](https://keel.sh/)
 

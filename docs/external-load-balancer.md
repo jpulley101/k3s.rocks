@@ -1,4 +1,9 @@
-# External load balancer
+---
+sidebar_position: 3
+sidebar_label: External Load Balancer
+---
+
+## External load balancer
 
 In case you do not wish to expose nodes to internet directly, prefer to perfrom tls termination outside the cluster, or both, you can use a external load balancer to expose your services.
 

@@ -1,4 +1,10 @@
-# Plausible analytics
+---
+sidebar_position: 15
+sidebar_label: Plausible analytics
+---
+
+
+## Plausible analytics
 
 Create a security key
 
@@ -48,4 +54,4 @@ ingress.networking.k8s.io/plausible-ingress created
 ```
 
 And your plausible instance should now be accessible at <a href="https://plausible.dog.example.com" target="_blank">https://plausible.dog.example.com</a>
-![Plausible](./img/plausible.webp)
+![Plausible](/img/plausible.webp)

@@ -1,4 +1,9 @@
-## Logging
+---
+sidebar_position: 12
+sidebar_label: Logging
+---
+
+# Logging
 Since we already are relying on grafana for metrics, it is conveniant to use Loki for logging.
 ![Loki](/img/loki.webp)
 

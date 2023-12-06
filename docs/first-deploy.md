@@ -1,6 +1,10 @@
-## First Deploy
+---
+sidebar_position: 4
+sidebar_label: First Deploy
+---
 
-### Echo Test
+
+## Echo Test
 
 Apply deployment, service and ingress, using the commands below. This will deploy and expose a docker container on a subdomain.
 

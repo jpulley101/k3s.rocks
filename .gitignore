@@ -9,3 +9,5 @@ __pycache__
 htmlcov
 .vercel
 .venv
+package-lock.json
+node_modules

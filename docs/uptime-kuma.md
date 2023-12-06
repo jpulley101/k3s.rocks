@@ -1,7 +1,12 @@
-# Uptime Kuma
+---
+sidebar_position: 18
+sidebar_label: Uptime-Kuma
+---
+
+## Uptime Kuma
 
 
-[Uptime Kuma](uptime.kuma.pet) A awesome self-hosted monitoring tool.
+[Uptime Kuma](https://uptime.kuma.pet/) A awesome self-hosted monitoring tool.
 
 Apply the manifest.
 

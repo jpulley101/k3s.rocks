@@ -1,4 +1,8 @@
-# Private container registry
+---
+sidebar_position: 10
+---
+
+## Private container registry
 
 ## Using private registry
 
@@ -116,7 +120,7 @@ Finally the registry-ui (optional)
 cat registry-ui.yaml | envsubst | kubectl apply -f -
 ```
 
-![Registry UI](./img/registry-ui-content.webp)
+![Registry UI](/img/registry-ui-content.webp)
 For the registry UI, we will use the same basic auth middleware as for the registry, as the registry-ui forwards the credentials. If you use a different basic auth middleware here then you will best case have to enter two sets of credentials. So its better to just have the same as the registry.
 
 ## Test the registry
@@ -219,6 +223,6 @@ cat system-info-web.yaml | envsubst | kubectl apply -f -
 ### Check
 Go to <a href="http://sysinfo.dog.example" target="_blank">http://sysinfo.dog.example</a> To see if it has worked.
 
-![system-info-web](./img/system-info-web.webp)
+
 
 **Note:** See the value under __"hostname"__ which is the name of the pod running the service. In the deployment yaml it has been specified with 2 replicas. Try refreshing and see that this value will change as the ingress is now load balancing between the two replicas. 

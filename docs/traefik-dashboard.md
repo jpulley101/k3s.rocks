@@ -1,6 +1,12 @@
-# Traefik dashboard
+---
+sidebar_position: 6
+sidebar_label: Traefik
+---
 
-![Traefik Dashboard](./img/traefik-dashboard.webp)
+
+## Traefik dashboard
+
+![Traefik Dashboard](/img/traefik-dashboard.webp)
 
 ## Expose traefik dashboard
 

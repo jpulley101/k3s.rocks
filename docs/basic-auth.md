@@ -1,6 +1,12 @@
-# Basic auth
+---
+sidebar_position: 7
+sidebar_label: Basic Auth
+---
 
-![Basic auth](./img/basic-auth.webp)
+
+## Basic auth
+
+![Basic auth](/img/basic-auth.webp)
 
 Without any authentication all ingresses are unprotected, unless they offer their own auth. One easy way to add some security to this is using basic auth. This wil also allow us to secure the private registry easily if we use one. All with the same credentials. See the [docs](https://doc.traefik.io/traefik/middlewares/basicauth/) for more details.
 

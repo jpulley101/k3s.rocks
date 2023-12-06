@@ -1,4 +1,9 @@
-# F.A.Q.
+---
+sidebar_position: 19
+sidebar_label: F.A.Q.
+---
+
+## F.A.Q.
 
 ## Get "http://localhost:8080/version?timeout=32s": dial tcp 127.0.0.1:8080: connect: connection refused
 

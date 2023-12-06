@@ -1,12 +1,18 @@
-# HTTPS with Cert-Manager and Letsencrypt
+---
+sidebar_position: 5
+sidebar_label: HTTPS with Cert-Manager and Letsencrypt
+---
+
+
+## HTTPS with Cert-Manager and Letsencrypt
 
 Traefik could do https with letsencrypt on its own. But the added features we get from cert-manager are worth it, so we'll go with that. Most noteworthy is certificate sharing between nodes and pods.
 
 **Note:** Make sure you have set the right environment variables, including email. When using the production ClusterIssuer, you might quickly run into problems if you try and fail too many times, causing letsencrypt to ignore you for a while.
 
-**Note:** Consider setting up a [separate load balancer](external-load-balancer.md) that also handles tls termination.
+**Note:** Consider setting up a [separate load balancer](External-load-balancer.md) that also handles tls termination.
 
-First, Follow the steps in [first-deploy](first-deploy.md)
+First, Follow the steps in [first-deploy](First-deploy.md)
 
 - Apply the manifest
 

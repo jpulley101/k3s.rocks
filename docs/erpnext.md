@@ -1,4 +1,9 @@
-# Erpnext
+---
+sidebar_position: 16  
+sidebar_label: EPRnext
+---
+
+## Erpnext
 
 ![erpnext](/img/services-customer.png)
 Picture from [erpnext.com](https://erpnext.com/)
