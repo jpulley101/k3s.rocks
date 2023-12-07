@@ -1,0 +1,27 @@
+{
+  "id": "External-load-balancer",
+  "title": "External-load-balancer",
+  "description": "External load balancer",
+  "source": "@site/docs/External-load-balancer.md",
+  "sourceDirName": ".",
+  "slug": "/External-load-balancer",
+  "permalink": "/External-load-balancer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "External Load Balancer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install Setup",
+    "permalink": "/install-setup"
+  },
+  "next": {
+    "title": "First Deploy",
+    "permalink": "/First-deploy"
+  }
+}

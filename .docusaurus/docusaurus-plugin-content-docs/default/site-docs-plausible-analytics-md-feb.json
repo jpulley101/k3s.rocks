@@ -1,0 +1,27 @@
+{
+  "id": "plausible-analytics",
+  "title": "plausible-analytics",
+  "description": "Plausible analytics",
+  "source": "@site/docs/plausible-analytics.md",
+  "sourceDirName": ".",
+  "slug": "/plausible-analytics",
+  "permalink": "/plausible-analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "sidebar_label": "Plausible analytics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keel",
+    "permalink": "/keel"
+  },
+  "next": {
+    "title": "EPRnext",
+    "permalink": "/Erpnext"
+  }
+}

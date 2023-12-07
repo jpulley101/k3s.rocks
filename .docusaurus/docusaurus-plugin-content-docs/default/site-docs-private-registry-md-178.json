@@ -1,0 +1,26 @@
+{
+  "id": "Private-registry",
+  "title": "Private-registry",
+  "description": "Private container registry",
+  "source": "@site/docs/Private-registry.md",
+  "sourceDirName": ".",
+  "slug": "/Private-registry",
+  "permalink": "/Private-registry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Persistant storage with localstorage and longhorn",
+    "permalink": "/Persistent-Storage-Longhorn"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/metrics"
+  }
+}

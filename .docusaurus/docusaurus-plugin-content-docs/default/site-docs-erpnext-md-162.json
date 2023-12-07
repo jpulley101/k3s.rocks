@@ -1,0 +1,27 @@
+{
+  "id": "Erpnext",
+  "title": "Erpnext",
+  "description": "Erpnext",
+  "source": "@site/docs/Erpnext.md",
+  "sourceDirName": ".",
+  "slug": "/Erpnext",
+  "permalink": "/Erpnext",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16,
+    "sidebar_label": "EPRnext"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plausible analytics",
+    "permalink": "/plausible-analytics"
+  },
+  "next": {
+    "title": "Technitium dns-server",
+    "permalink": "/technitium-dns"
+  }
+}

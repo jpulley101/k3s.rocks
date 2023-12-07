@@ -1,0 +1,24 @@
+{
+  "id": "Intro",
+  "title": "Intro",
+  "description": "Why?",
+  "source": "@site/docs/Intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Intro",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Install Setup",
+    "permalink": "/install-setup"
+  }
+}

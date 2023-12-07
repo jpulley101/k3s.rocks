@@ -1,0 +1,123 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "Intro",
+          "docs": [
+            {
+              "id": "Argocd",
+              "path": "/Argocd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Auto-healing",
+              "path": "/Auto-healing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Basic-auth",
+              "path": "/Basic-auth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Erpnext",
+              "path": "/Erpnext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "External-load-balancer",
+              "path": "/External-load-balancer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Faq",
+              "path": "/Faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "First-deploy",
+              "path": "/First-deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "https-cert-manager-letsencrypt",
+              "path": "/https-cert-manager-letsencrypt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "install-setup",
+              "path": "/install-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "keel",
+              "path": "/keel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "logging",
+              "path": "/logging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "metrics",
+              "path": "/metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Persistent-Storage-Longhorn",
+              "path": "/Persistent-Storage-Longhorn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "plausible-analytics",
+              "path": "/plausible-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Private-registry",
+              "path": "/Private-registry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technitium-dns",
+              "path": "/technitium-dns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "traefik-dashboard",
+              "path": "/traefik-dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "uptime-kuma",
+              "path": "/uptime-kuma",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "Intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "uptime-kuma",
+  "title": "uptime-kuma",
+  "description": "Uptime Kuma",
+  "source": "@site/docs/uptime-kuma.md",
+  "sourceDirName": ".",
+  "slug": "/uptime-kuma",
+  "permalink": "/uptime-kuma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18,
+    "sidebar_label": "Uptime-Kuma"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technitium dns-server",
+    "permalink": "/technitium-dns"
+  },
+  "next": {
+    "title": "F.A.Q.",
+    "permalink": "/Faq"
+  }
+}

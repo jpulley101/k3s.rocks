@@ -1,0 +1,27 @@
+{
+  "id": "First-deploy",
+  "title": "First-deploy",
+  "description": "Echo Test",
+  "source": "@site/docs/First-deploy.md",
+  "sourceDirName": ".",
+  "slug": "/First-deploy",
+  "permalink": "/First-deploy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "First Deploy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "External Load Balancer",
+    "permalink": "/External-load-balancer"
+  },
+  "next": {
+    "title": "HTTPS with Cert-Manager and Letsencrypt",
+    "permalink": "/https-cert-manager-letsencrypt"
+  }
+}

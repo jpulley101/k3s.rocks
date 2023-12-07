@@ -1,0 +1,27 @@
+{
+  "id": "Basic-auth",
+  "title": "Basic-auth",
+  "description": "Basic auth",
+  "source": "@site/docs/Basic-auth.md",
+  "sourceDirName": ".",
+  "slug": "/Basic-auth",
+  "permalink": "/Basic-auth",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Basic Auth"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Traefik",
+    "permalink": "/traefik-dashboard"
+  },
+  "next": {
+    "title": "Auto Healing",
+    "permalink": "/Auto-healing"
+  }
+}

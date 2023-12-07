@@ -1,0 +1,27 @@
+{
+  "id": "Persistent-Storage-Longhorn",
+  "title": "Persistent-Storage-Longhorn",
+  "description": "Persistant storage with localstorage and longhorn",
+  "source": "@site/docs/Persistent-Storage-Longhorn.md",
+  "sourceDirName": ".",
+  "slug": "/Persistent-Storage-Longhorn",
+  "permalink": "/Persistent-Storage-Longhorn",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "Persistant storage with localstorage and longhorn"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto Healing",
+    "permalink": "/Auto-healing"
+  },
+  "next": {
+    "title": "Private-registry",
+    "permalink": "/Private-registry"
+  }
+}

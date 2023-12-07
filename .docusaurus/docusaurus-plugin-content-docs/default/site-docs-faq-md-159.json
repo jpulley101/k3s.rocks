@@ -1,0 +1,23 @@
+{
+  "id": "Faq",
+  "title": "Faq",
+  "description": "F.A.Q.",
+  "source": "@site/docs/Faq.md",
+  "sourceDirName": ".",
+  "slug": "/Faq",
+  "permalink": "/Faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19,
+    "sidebar_label": "F.A.Q."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Uptime-Kuma",
+    "permalink": "/uptime-kuma"
+  }
+}

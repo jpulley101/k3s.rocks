@@ -1,0 +1,27 @@
+{
+  "id": "traefik-dashboard",
+  "title": "traefik-dashboard",
+  "description": "Traefik dashboard",
+  "source": "@site/docs/traefik-dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/traefik-dashboard",
+  "permalink": "/traefik-dashboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "sidebar_label": "Traefik"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTPS with Cert-Manager and Letsencrypt",
+    "permalink": "/https-cert-manager-letsencrypt"
+  },
+  "next": {
+    "title": "Basic Auth",
+    "permalink": "/Basic-auth"
+  }
+}

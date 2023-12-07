@@ -1,0 +1,263 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/",
+        "docId": "Intro",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Install Setup",
+        "href": "/install-setup",
+        "docId": "install-setup",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "External Load Balancer",
+        "href": "/External-load-balancer",
+        "docId": "External-load-balancer",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "First Deploy",
+        "href": "/First-deploy",
+        "docId": "First-deploy",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "HTTPS with Cert-Manager and Letsencrypt",
+        "href": "/https-cert-manager-letsencrypt",
+        "docId": "https-cert-manager-letsencrypt",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Traefik",
+        "href": "/traefik-dashboard",
+        "docId": "traefik-dashboard",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Basic Auth",
+        "href": "/Basic-auth",
+        "docId": "Basic-auth",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Auto Healing",
+        "href": "/Auto-healing",
+        "docId": "Auto-healing",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Persistant storage with localstorage and longhorn",
+        "href": "/Persistent-Storage-Longhorn",
+        "docId": "Persistent-Storage-Longhorn",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Private-registry",
+        "href": "/Private-registry",
+        "docId": "Private-registry",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Metrics",
+        "href": "/metrics",
+        "docId": "metrics",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Logging",
+        "href": "/logging",
+        "docId": "logging",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "ArgoCD",
+        "href": "/Argocd",
+        "docId": "Argocd",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Keel",
+        "href": "/keel",
+        "docId": "keel",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Plausible analytics",
+        "href": "/plausible-analytics",
+        "docId": "plausible-analytics",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "EPRnext",
+        "href": "/Erpnext",
+        "docId": "Erpnext",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Technitium dns-server",
+        "href": "/technitium-dns",
+        "docId": "technitium-dns",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Uptime-Kuma",
+        "href": "/uptime-kuma",
+        "docId": "uptime-kuma",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "F.A.Q.",
+        "href": "/Faq",
+        "docId": "Faq",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Argocd": {
+      "id": "Argocd",
+      "title": "Argocd",
+      "description": "Install ArgoCD",
+      "sidebar": "tutorialSidebar"
+    },
+    "Auto-healing": {
+      "id": "Auto-healing",
+      "title": "Auto-healing",
+      "description": "Auto healing demo",
+      "sidebar": "tutorialSidebar"
+    },
+    "Basic-auth": {
+      "id": "Basic-auth",
+      "title": "Basic-auth",
+      "description": "Basic auth",
+      "sidebar": "tutorialSidebar"
+    },
+    "Erpnext": {
+      "id": "Erpnext",
+      "title": "Erpnext",
+      "description": "Erpnext",
+      "sidebar": "tutorialSidebar"
+    },
+    "External-load-balancer": {
+      "id": "External-load-balancer",
+      "title": "External-load-balancer",
+      "description": "External load balancer",
+      "sidebar": "tutorialSidebar"
+    },
+    "Faq": {
+      "id": "Faq",
+      "title": "Faq",
+      "description": "F.A.Q.",
+      "sidebar": "tutorialSidebar"
+    },
+    "First-deploy": {
+      "id": "First-deploy",
+      "title": "First-deploy",
+      "description": "Echo Test",
+      "sidebar": "tutorialSidebar"
+    },
+    "https-cert-manager-letsencrypt": {
+      "id": "https-cert-manager-letsencrypt",
+      "title": "https-cert-manager-letsencrypt",
+      "description": "HTTPS with Cert-Manager and Letsencrypt",
+      "sidebar": "tutorialSidebar"
+    },
+    "install-setup": {
+      "id": "install-setup",
+      "title": "install-setup",
+      "description": "Install and set up",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intro": {
+      "id": "Intro",
+      "title": "Intro",
+      "description": "Why?",
+      "sidebar": "tutorialSidebar"
+    },
+    "keel": {
+      "id": "keel",
+      "title": "keel",
+      "description": "Keel",
+      "sidebar": "tutorialSidebar"
+    },
+    "logging": {
+      "id": "logging",
+      "title": "Logging",
+      "description": "Since we already are relying on grafana for metrics, it is conveniant to use Loki for logging.",
+      "sidebar": "tutorialSidebar"
+    },
+    "metrics": {
+      "id": "metrics",
+      "title": "metrics",
+      "description": "Metrics",
+      "sidebar": "tutorialSidebar"
+    },
+    "Persistent-Storage-Longhorn": {
+      "id": "Persistent-Storage-Longhorn",
+      "title": "Persistent-Storage-Longhorn",
+      "description": "Persistant storage with localstorage and longhorn",
+      "sidebar": "tutorialSidebar"
+    },
+    "plausible-analytics": {
+      "id": "plausible-analytics",
+      "title": "plausible-analytics",
+      "description": "Plausible analytics",
+      "sidebar": "tutorialSidebar"
+    },
+    "Private-registry": {
+      "id": "Private-registry",
+      "title": "Private-registry",
+      "description": "Private container registry",
+      "sidebar": "tutorialSidebar"
+    },
+    "technitium-dns": {
+      "id": "technitium-dns",
+      "title": "technitium-dns",
+      "description": "Technitium dns-server",
+      "sidebar": "tutorialSidebar"
+    },
+    "traefik-dashboard": {
+      "id": "traefik-dashboard",
+      "title": "traefik-dashboard",
+      "description": "Traefik dashboard",
+      "sidebar": "tutorialSidebar"
+    },
+    "uptime-kuma": {
+      "id": "uptime-kuma",
+      "title": "uptime-kuma",
+      "description": "Uptime Kuma",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

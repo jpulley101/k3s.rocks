@@ -1,0 +1,27 @@
+{
+  "id": "https-cert-manager-letsencrypt",
+  "title": "https-cert-manager-letsencrypt",
+  "description": "HTTPS with Cert-Manager and Letsencrypt",
+  "source": "@site/docs/https-cert-manager-letsencrypt.md",
+  "sourceDirName": ".",
+  "slug": "/https-cert-manager-letsencrypt",
+  "permalink": "/https-cert-manager-letsencrypt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "sidebar_label": "HTTPS with Cert-Manager and Letsencrypt"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Deploy",
+    "permalink": "/First-deploy"
+  },
+  "next": {
+    "title": "Traefik",
+    "permalink": "/traefik-dashboard"
+  }
+}

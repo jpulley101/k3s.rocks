@@ -1,0 +1,658 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/jarrettpulley/Documents/k3s.rocks/sidebars.js",
+          "contentPath": "/Users/jarrettpulley/Documents/k3s.rocks/docs",
+          "contentPathLocalized": "/Users/jarrettpulley/Documents/k3s.rocks/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Argocd",
+              "title": "Argocd",
+              "description": "Install ArgoCD",
+              "source": "@site/docs/Argocd.md",
+              "sourceDirName": ".",
+              "slug": "/Argocd",
+              "permalink": "/Argocd",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13,
+                "sidebar_label": "ArgoCD"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Logging",
+                "permalink": "/logging"
+              },
+              "next": {
+                "title": "Keel",
+                "permalink": "/keel"
+              }
+            },
+            {
+              "id": "Auto-healing",
+              "title": "Auto-healing",
+              "description": "Auto healing demo",
+              "source": "@site/docs/Auto-healing.md",
+              "sourceDirName": ".",
+              "slug": "/Auto-healing",
+              "permalink": "/Auto-healing",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "sidebar_label": "Auto Healing"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basic Auth",
+                "permalink": "/Basic-auth"
+              },
+              "next": {
+                "title": "Persistant storage with localstorage and longhorn",
+                "permalink": "/Persistent-Storage-Longhorn"
+              }
+            },
+            {
+              "id": "Basic-auth",
+              "title": "Basic-auth",
+              "description": "Basic auth",
+              "source": "@site/docs/Basic-auth.md",
+              "sourceDirName": ".",
+              "slug": "/Basic-auth",
+              "permalink": "/Basic-auth",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "sidebar_label": "Basic Auth"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Traefik",
+                "permalink": "/traefik-dashboard"
+              },
+              "next": {
+                "title": "Auto Healing",
+                "permalink": "/Auto-healing"
+              }
+            },
+            {
+              "id": "Erpnext",
+              "title": "Erpnext",
+              "description": "Erpnext",
+              "source": "@site/docs/Erpnext.md",
+              "sourceDirName": ".",
+              "slug": "/Erpnext",
+              "permalink": "/Erpnext",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16,
+                "sidebar_label": "EPRnext"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plausible analytics",
+                "permalink": "/plausible-analytics"
+              },
+              "next": {
+                "title": "Technitium dns-server",
+                "permalink": "/technitium-dns"
+              }
+            },
+            {
+              "id": "External-load-balancer",
+              "title": "External-load-balancer",
+              "description": "External load balancer",
+              "source": "@site/docs/External-load-balancer.md",
+              "sourceDirName": ".",
+              "slug": "/External-load-balancer",
+              "permalink": "/External-load-balancer",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "External Load Balancer"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install Setup",
+                "permalink": "/install-setup"
+              },
+              "next": {
+                "title": "First Deploy",
+                "permalink": "/First-deploy"
+              }
+            },
+            {
+              "id": "Faq",
+              "title": "Faq",
+              "description": "F.A.Q.",
+              "source": "@site/docs/Faq.md",
+              "sourceDirName": ".",
+              "slug": "/Faq",
+              "permalink": "/Faq",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 19,
+              "frontMatter": {
+                "sidebar_position": 19,
+                "sidebar_label": "F.A.Q."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Uptime-Kuma",
+                "permalink": "/uptime-kuma"
+              }
+            },
+            {
+              "id": "First-deploy",
+              "title": "First-deploy",
+              "description": "Echo Test",
+              "source": "@site/docs/First-deploy.md",
+              "sourceDirName": ".",
+              "slug": "/First-deploy",
+              "permalink": "/First-deploy",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "sidebar_label": "First Deploy"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "External Load Balancer",
+                "permalink": "/External-load-balancer"
+              },
+              "next": {
+                "title": "HTTPS with Cert-Manager and Letsencrypt",
+                "permalink": "/https-cert-manager-letsencrypt"
+              }
+            },
+            {
+              "id": "https-cert-manager-letsencrypt",
+              "title": "https-cert-manager-letsencrypt",
+              "description": "HTTPS with Cert-Manager and Letsencrypt",
+              "source": "@site/docs/https-cert-manager-letsencrypt.md",
+              "sourceDirName": ".",
+              "slug": "/https-cert-manager-letsencrypt",
+              "permalink": "/https-cert-manager-letsencrypt",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "sidebar_label": "HTTPS with Cert-Manager and Letsencrypt"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "First Deploy",
+                "permalink": "/First-deploy"
+              },
+              "next": {
+                "title": "Traefik",
+                "permalink": "/traefik-dashboard"
+              }
+            },
+            {
+              "id": "install-setup",
+              "title": "install-setup",
+              "description": "Install and set up",
+              "source": "@site/docs/install-setup.md",
+              "sourceDirName": ".",
+              "slug": "/install-setup",
+              "permalink": "/install-setup",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Install Setup"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intro",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "External Load Balancer",
+                "permalink": "/External-load-balancer"
+              }
+            },
+            {
+              "id": "Intro",
+              "title": "Intro",
+              "description": "Why?",
+              "source": "@site/docs/Intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Intro",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Install Setup",
+                "permalink": "/install-setup"
+              }
+            },
+            {
+              "id": "keel",
+              "title": "keel",
+              "description": "Keel",
+              "source": "@site/docs/keel.md",
+              "sourceDirName": ".",
+              "slug": "/keel",
+              "permalink": "/keel",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14,
+                "sidebar_label": "Keel"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ArgoCD",
+                "permalink": "/Argocd"
+              },
+              "next": {
+                "title": "Plausible analytics",
+                "permalink": "/plausible-analytics"
+              }
+            },
+            {
+              "id": "logging",
+              "title": "Logging",
+              "description": "Since we already are relying on grafana for metrics, it is conveniant to use Loki for logging.",
+              "source": "@site/docs/logging.md",
+              "sourceDirName": ".",
+              "slug": "/logging",
+              "permalink": "/logging",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12,
+                "sidebar_label": "Logging"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Metrics",
+                "permalink": "/metrics"
+              },
+              "next": {
+                "title": "ArgoCD",
+                "permalink": "/Argocd"
+              }
+            },
+            {
+              "id": "metrics",
+              "title": "metrics",
+              "description": "Metrics",
+              "source": "@site/docs/metrics.md",
+              "sourceDirName": ".",
+              "slug": "/metrics",
+              "permalink": "/metrics",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11,
+                "sidebar_label": "Metrics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Private-registry",
+                "permalink": "/Private-registry"
+              },
+              "next": {
+                "title": "Logging",
+                "permalink": "/logging"
+              }
+            },
+            {
+              "id": "Persistent-Storage-Longhorn",
+              "title": "Persistent-Storage-Longhorn",
+              "description": "Persistant storage with localstorage and longhorn",
+              "source": "@site/docs/Persistent-Storage-Longhorn.md",
+              "sourceDirName": ".",
+              "slug": "/Persistent-Storage-Longhorn",
+              "permalink": "/Persistent-Storage-Longhorn",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "sidebar_label": "Persistant storage with localstorage and longhorn"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Auto Healing",
+                "permalink": "/Auto-healing"
+              },
+              "next": {
+                "title": "Private-registry",
+                "permalink": "/Private-registry"
+              }
+            },
+            {
+              "id": "plausible-analytics",
+              "title": "plausible-analytics",
+              "description": "Plausible analytics",
+              "source": "@site/docs/plausible-analytics.md",
+              "sourceDirName": ".",
+              "slug": "/plausible-analytics",
+              "permalink": "/plausible-analytics",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_position": 15,
+                "sidebar_label": "Plausible analytics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Keel",
+                "permalink": "/keel"
+              },
+              "next": {
+                "title": "EPRnext",
+                "permalink": "/Erpnext"
+              }
+            },
+            {
+              "id": "Private-registry",
+              "title": "Private-registry",
+              "description": "Private container registry",
+              "source": "@site/docs/Private-registry.md",
+              "sourceDirName": ".",
+              "slug": "/Private-registry",
+              "permalink": "/Private-registry",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Persistant storage with localstorage and longhorn",
+                "permalink": "/Persistent-Storage-Longhorn"
+              },
+              "next": {
+                "title": "Metrics",
+                "permalink": "/metrics"
+              }
+            },
+            {
+              "id": "technitium-dns",
+              "title": "technitium-dns",
+              "description": "Technitium dns-server",
+              "source": "@site/docs/technitium-dns.md",
+              "sourceDirName": ".",
+              "slug": "/technitium-dns",
+              "permalink": "/technitium-dns",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_position": 17,
+                "sidebar_label": "Technitium dns-server"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "EPRnext",
+                "permalink": "/Erpnext"
+              },
+              "next": {
+                "title": "Uptime-Kuma",
+                "permalink": "/uptime-kuma"
+              }
+            },
+            {
+              "id": "traefik-dashboard",
+              "title": "traefik-dashboard",
+              "description": "Traefik dashboard",
+              "source": "@site/docs/traefik-dashboard.md",
+              "sourceDirName": ".",
+              "slug": "/traefik-dashboard",
+              "permalink": "/traefik-dashboard",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "sidebar_label": "Traefik"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HTTPS with Cert-Manager and Letsencrypt",
+                "permalink": "/https-cert-manager-letsencrypt"
+              },
+              "next": {
+                "title": "Basic Auth",
+                "permalink": "/Basic-auth"
+              }
+            },
+            {
+              "id": "uptime-kuma",
+              "title": "uptime-kuma",
+              "description": "Uptime Kuma",
+              "source": "@site/docs/uptime-kuma.md",
+              "sourceDirName": ".",
+              "slug": "/uptime-kuma",
+              "permalink": "/uptime-kuma",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "sidebar_position": 18,
+                "sidebar_label": "Uptime-Kuma"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Technitium dns-server",
+                "permalink": "/technitium-dns"
+              },
+              "next": {
+                "title": "F.A.Q.",
+                "permalink": "/Faq"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "Intro",
+                "label": "Intro"
+              },
+              {
+                "type": "doc",
+                "id": "install-setup",
+                "label": "Install Setup"
+              },
+              {
+                "type": "doc",
+                "id": "External-load-balancer",
+                "label": "External Load Balancer"
+              },
+              {
+                "type": "doc",
+                "id": "First-deploy",
+                "label": "First Deploy"
+              },
+              {
+                "type": "doc",
+                "id": "https-cert-manager-letsencrypt",
+                "label": "HTTPS with Cert-Manager and Letsencrypt"
+              },
+              {
+                "type": "doc",
+                "id": "traefik-dashboard",
+                "label": "Traefik"
+              },
+              {
+                "type": "doc",
+                "id": "Basic-auth",
+                "label": "Basic Auth"
+              },
+              {
+                "type": "doc",
+                "id": "Auto-healing",
+                "label": "Auto Healing"
+              },
+              {
+                "type": "doc",
+                "id": "Persistent-Storage-Longhorn",
+                "label": "Persistant storage with localstorage and longhorn"
+              },
+              {
+                "type": "doc",
+                "id": "Private-registry"
+              },
+              {
+                "type": "doc",
+                "id": "metrics",
+                "label": "Metrics"
+              },
+              {
+                "type": "doc",
+                "id": "logging",
+                "label": "Logging"
+              },
+              {
+                "type": "doc",
+                "id": "Argocd",
+                "label": "ArgoCD"
+              },
+              {
+                "type": "doc",
+                "id": "keel",
+                "label": "Keel"
+              },
+              {
+                "type": "doc",
+                "id": "plausible-analytics",
+                "label": "Plausible analytics"
+              },
+              {
+                "type": "doc",
+                "id": "Erpnext",
+                "label": "EPRnext"
+              },
+              {
+                "type": "doc",
+                "id": "technitium-dns",
+                "label": "Technitium dns-server"
+              },
+              {
+                "type": "doc",
+                "id": "uptime-kuma",
+                "label": "Uptime-Kuma"
+              },
+              {
+                "type": "doc",
+                "id": "Faq",
+                "label": "F.A.Q."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

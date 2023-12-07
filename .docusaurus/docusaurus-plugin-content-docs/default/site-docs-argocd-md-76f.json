@@ -1,0 +1,27 @@
+{
+  "id": "Argocd",
+  "title": "Argocd",
+  "description": "Install ArgoCD",
+  "source": "@site/docs/Argocd.md",
+  "sourceDirName": ".",
+  "slug": "/Argocd",
+  "permalink": "/Argocd",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "sidebar_label": "ArgoCD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logging",
+    "permalink": "/logging"
+  },
+  "next": {
+    "title": "Keel",
+    "permalink": "/keel"
+  }
+}

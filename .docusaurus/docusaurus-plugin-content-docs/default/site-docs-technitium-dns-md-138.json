@@ -1,0 +1,27 @@
+{
+  "id": "technitium-dns",
+  "title": "technitium-dns",
+  "description": "Technitium dns-server",
+  "source": "@site/docs/technitium-dns.md",
+  "sourceDirName": ".",
+  "slug": "/technitium-dns",
+  "permalink": "/technitium-dns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "sidebar_label": "Technitium dns-server"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EPRnext",
+    "permalink": "/Erpnext"
+  },
+  "next": {
+    "title": "Uptime-Kuma",
+    "permalink": "/uptime-kuma"
+  }
+}

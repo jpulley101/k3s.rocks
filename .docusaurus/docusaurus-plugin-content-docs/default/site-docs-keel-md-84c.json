@@ -1,0 +1,27 @@
+{
+  "id": "keel",
+  "title": "keel",
+  "description": "Keel",
+  "source": "@site/docs/keel.md",
+  "sourceDirName": ".",
+  "slug": "/keel",
+  "permalink": "/keel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "sidebar_label": "Keel"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ArgoCD",
+    "permalink": "/Argocd"
+  },
+  "next": {
+    "title": "Plausible analytics",
+    "permalink": "/plausible-analytics"
+  }
+}
