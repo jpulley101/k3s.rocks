@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://k3s.rocks"><img src="/docs/img/logo-green-vectors.svg" alt="k3s.rocks"></a>
+  <a href="https://k3s.rocks"><img src="/static/img/logo-green-vectors.svg" alt="k3s.rocks"></a>
 </p>
 
 ## Why?
